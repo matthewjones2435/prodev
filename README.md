@@ -1,3 +1,3 @@
 # prodev
 
-* [Resume](/prodevresume)
+* [Resume](prodevresume.md)
