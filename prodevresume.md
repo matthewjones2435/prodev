@@ -1,7 +1,4 @@
-# Resume 
+# Resume  
 
-## Objective 
 
-## Education 
-
-## Experience
+![](mjones_resume.png
