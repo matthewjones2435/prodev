@@ -1,6 +1,6 @@
 # prodev
 
-![Resume](mjones_resume.png)
+[Resume](prodevresume.md)
 
 
 
