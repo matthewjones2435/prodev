@@ -1,3 +1,3 @@
 # prodev
 
-* [Resume](prodevresume.md)
+![Resume](._AAAAMjones_Resume_Uptd.pdf)
