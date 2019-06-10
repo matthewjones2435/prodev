@@ -1,6 +1,6 @@
 # prodev
 
-![Resume](._AAAAMjones_Resume_Uptd.pdf)
+![Resume](mjones_resume.png)
 
 
 
