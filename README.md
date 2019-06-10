@@ -5,7 +5,7 @@
 
 
 
-## Purpose
+## Week One- Purpose
 
 ### What
   * Use of coding/programming for the development of software for music and audio applications. 
