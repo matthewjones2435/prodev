@@ -12,11 +12,25 @@
   
 ### Why
 
-* Because I am passionate about music, and the technological innovations that have effected how music is created in the digital age.
+ * Because I am passionate about music, and the technological innovations that have effected how music is created in the digital age.
 
 ### How 
 
-* Through exploration and experimentation with audio softwares and hardwares that will lead to the development of unique and interesting user experiences when creating thier music.  
+ * Through exploration and experimentation with audio softwares and hardwares that will lead to the development of unique and interesting user experiences when creating thier music.  
+
+### Q and Q
+
+ * Quantative 
+   * Worked 7 or more years with out calling out sick once.  
+   * Worked with fellow associates to raise store sales to the goal of $20,000 per week, which was a goal set upon us by our      owners and managers
+   * I had worked for World of Warcraft, and at the time I had little knowledge of the game as I did not play it, but I worked hard and adapted so that I was able to meet the hourly ticket quota of 10 tickets per hour, while still being able to produce auality service and adhere to to outlined policies of the job.
+   
+ * Qualitative 
+   * Reliable and Loyalty, I had been raised to take these types of qualities as important, and to an extent they are quite important, but this is a type of a quality that can be taken advantage of.  
+   * Empathy, in the field of customer service empathy can be an important quality that can be used to graciously aid a customer 
+   with thier needs, but it could be a double edged sword in the fact that it can make you feel like you are not being as helpful as you can when a situation arises when you actually unable to help someone becuase of policies etc.
+   * Organization, I am typically an organized individual and feel that basic organization is an important aspect of productive workflow ets, but also I feel that this quality can get in the way in being that if something is not organized in particular ways or to my preferences it can become a burden because I would feel that it would need to be reorganized before and real work done would be done. 
+
 
 ## Weekly Reflection 
 
