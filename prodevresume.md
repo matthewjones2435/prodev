@@ -1,4 +1,0 @@
-
-
-
-[Resume](MatthewJonesResume.pdf)
