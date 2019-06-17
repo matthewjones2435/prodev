@@ -53,6 +53,24 @@ Hello my name is Matthew, and I am working to change the landscape of digital au
 
 ### Visuals Speak
 
+![](VisualsSpeak.jpg)
+
 I picked the empty sign as a symbol representing my current professional status.  I picked this ultimately because I feel that I 
 dont really have much of a professional status.  Many of my previous jobs have been what I would call dead end jobs, where there was no real room for advancement or personal growth.  I more recently graduated from UNM and feel as if I am stuck, caught in a catch 22 where I am unable to find any meaningful work because of my lack of experience, while also being afraid to take many risks to gain experience also because of my lack of experience.  I chose the colorful fan as a symbol of where I would like to 
 be in three years because I felt that it is representative of an object branching out. I hope that in the next three years, I am able to gain much needed real working world experience that will allow me to branch out into into the industry feilds of my interest.  I plan on getting there by branching myself out, to become more active and participate within the communities that represent my interests, I plan on working on personal projects that will help me gain the confidence needed to feel worthy of my participation, and I also plan on establishing myself within the software development community or workforce to gain much needed professional experience.   
+
+### Who am I 
+
+I am a software developer, I'm working with digital audio/sound processing technologies and protocols.
+
+I am a maker, I am currently working with programming, midi technology, and arduino to explore unique and alternative
+midi "instrument"/hardware methodologies. 
+
+I am a sound designer, who is currently working with programming languages and audio middleware for audio assest implementation 
+within the context of video game design.  
+
+
+
+### Recruiter/Weekly Reflection
+
+I was unable to find much information when trying to search for myself online, mainly for two reasons.  for One I have not been very active within online communities, and the other reason is because of "The Real Matt Jones" who I have known about but he is an Albuquerque based musician who shares the same name as myself and apparently he is more the real deal than myself.  I did find my personal linked in profile.  Currently this profile is unfinished and it shows, no profile picture, the resume is outdated, and there is little activity in regards to making contacts with colleagues within my areas of interest.  So as a recruiter I would find this to be representative of someone uninterested in developing themselves professionally.  This is what I will need to address, I will need to be willing to engage through online social networking, in order to both network and present a beeter professional image of myself.  For now I will plan on using LinkedIn, and SoundCloud as possible platforms for me to further engage myself in the online world, Ultimately I would like to set up my own personal website, that will have portfolio of my work etc.  The big takeaway for me this week is that even though I may not like social networking, especially on the internet, I do see that it can be invaluable when it comes to the bigger picture of my personal goals.  
