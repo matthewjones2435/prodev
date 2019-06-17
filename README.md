@@ -44,3 +44,15 @@ Alana Chigbrow
 ## Elevator Pitch 
 
 Hello my name is Matthew, and I am working to change the landscape of digital audio and music.  I do this because I am passionate about music and the innovations that digital age has changed the way people make music.  I intend to to make a mark on the digital audio industry through the development of unique and interesting softwares and hardwares that can create unique experiences for users and the audiences they create content for.  So, are you ready to make some music?
+
+
+
+
+## Week Two - Identity
+
+
+### Visuals Speak
+
+I picked the empty sign as a symbol representing my current professional status.  I picked this ultimately because I feel that I 
+dont really have much of a professional status.  Many of my previous jobs have been what I would call dead end jobs, where there was no real room for advancement or personal growth.  I more recently graduated from UNM and feel as if I am stuck, caught in a catch 22 where I am unable to find any meaningful work because of my lack of experience, while also being afraid to take many risks to gain experience also because of my lack of experience.  I chose the colorful fan as a symbol of where I would like to 
+be in three years because I felt that it is representative of an object branching out. I hope that in the next three years, I am able to gain much needed real working world experience that will allow me to branch out into into the industry feilds of my interest.  I plan on getting there by branching myself out, to become more active and participate within the communities that represent my interests, I plan on working on personal projects that will help me gain the confidence needed to feel worthy of my participation, and I also plan on establishing myself within the software development community or workforce to gain much needed professional experience.   
