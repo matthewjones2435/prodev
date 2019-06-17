@@ -1,6 +1,6 @@
 # prodev
 
-[Resume](prodevresume.md)
+[Resume](MatthewJonesResume.pdf)
 
 
 
