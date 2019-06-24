@@ -1,8 +1,7 @@
 # prodev
 
 [Resume](MatthewJonesResume.pdf)
-[LinkedIn](linkedin.com/in/matthew-jones-674743b6)
-
+<a href="linkedin.com/in/matthew-jones-674743b6">LinkedIn</a>
 
 
 ## Week One- Purpose
