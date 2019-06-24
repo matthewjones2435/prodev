@@ -1,7 +1,7 @@
 # prodev
 
 [Resume](MatthewJonesResume.pdf)
-
+[LinkedIn](linkedin.com/in/matthew-jones-674743b6)
 
 
 
