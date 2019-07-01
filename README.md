@@ -73,3 +73,51 @@ within the context of video game design.
 ### Recruiter/Weekly Reflection
 
 I was unable to find much information when trying to search for myself online, mainly for two reasons.  for One I have not been very active within online communities, and the other reason is because of "The Real Matt Jones" who I have known about but he is an Albuquerque based musician who shares the same name as myself and apparently he is more the real deal than myself.  I did find my personal linked in profile.  Currently this profile is unfinished and it shows, no profile picture, the resume is outdated, and there is little activity in regards to making contacts with colleagues within my areas of interest.  So as a recruiter I would find this to be representative of someone uninterested in developing themselves professionally.  This is what I will need to address, I will need to be willing to engage through online social networking, in order to both network and present a beeter professional image of myself.  For now I will plan on using LinkedIn, and SoundCloud as possible platforms for me to further engage myself in the online world, Ultimately I would like to set up my own personal website, that will have portfolio of my work etc.  The big takeaway for me this week is that even though I may not like social networking, especially on the internet, I do see that it can be invaluable when it comes to the bigger picture of my personal goals.  
+
+
+
+
+## Week Three, Comming soon, regardless if it can be graded or not need to reflect on the teambuilding excersize, and how I am trying to currently cope with the teambuilding aspects of the capstone project. 
+
+
+## Week Four Persuasion 
+
+
+### Finding Contacts 
+
+Here I am to identify a contact from one nonprofit organization, and one for profit organization 
+
+#### Non Profit 
+
+YDI- 
+
+Dept. 
+Education, Employment, & Training 
+Concha Cordova
+Vice President 
+505-352-3446
+ccordoca@ydinm.org
+
+I can bring value to the company, through introducing and engaging the children in creative coding........
+try to introduce workshops and/or seminars that can be attended by the youth to engage them in coding, 
+creative arts, and how these concepts can connnect with one another, while sparking an interest in the tech
+industry and computing technology through a creative lens.
+
+
+
+#### For Profit 
+
+
+
+
+### Four Burners Activity 
+
+![](4burners.png)
+
+
+
+### Reflection 
+
+I think that after begining to do some research about how I can fit into companies, I have began to realize that I could possibly offer alot more that I have previously believed.  Also through doing my bootcamp specific homework I have also realized that I am much more interested in front end development, UI interaction, and design that I thought I would have ever thought.  
+
+
